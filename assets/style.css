@@ -1,0 +1,121 @@
+* {
+	margin: 0;
+	padding: 0;
+  text-align: center;
+}
+
+content {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+img {
+  min-height: 100px;
+  align: center;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  font-weight: 200;
+  color: #77624E;
+  font-size: 42px;
+  padding-top: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #B2957B;
+}
+
+.byline {
+  font-weight: 500;
+}
+
+.footer {
+  font-weight: 400;
+  color: #EBD3BC;
+  font-size: 12px;
+  margin-top: 40px;
+}
+
+.social {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.social:hover {
+  fill: #000;
+}
+
+.one {
+  background-color: #000;
+  height: 100px;
+  width: 100%;
+}
+
+.two {
+  background-color: #3C3229;
+  height: 100px;
+  width: 100%;
+}
+
+.three {
+  background-color: #564534;
+  height: 100px;
+  width: 100%;
+}
+
+.four {
+  background-color: #77624E;
+  height: 100px;
+  width: 100%;
+}
+
+.five {
+  background-color: #B2957B;
+  height: 100px;
+  width: 100%;
+}
+
+.six {
+  background-color: #DBBC9E;
+  height: 100px;
+  width: 100%;
+}
+
+.seven {
+  background-color: #EBD3BC;
+  height: 100px;
+  width: 100%;
+}
+
+.eight {
+  background-color: #FFEDDD;
+  height: 100px;
+  width: 100%;
+}
+
+.nine {
+  background-color: #fff;
+  height: 100px;
+  width: 100%;
+}
+
+.legal {
+	left: 40%;
+	line-height: 24px;
+  text-align: left;
+  font-weight: 200;
+}
+
+.content {
+	position: relative;
+	width: 800px;
+	margin: 120px auto 120px;
+  left: 10%;
+}
