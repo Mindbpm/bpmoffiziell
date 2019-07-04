@@ -30,10 +30,38 @@ a {
 }
 
 .button {
+	margin: 30px 6px;
 	width: 140px;
-	height: 100px;
-	margin-left: 5px;
-	margin-right: 5px;
+	background: black;
+	display: inline-block;
+	color: #fff;
+	font-family: HelveticaNeue;
+	vertical-align: middle;
+	padding: 10px 0;
+}
+
+.applemusic:hover {
+	color: #676DF9;
+}
+
+.itunes:hover {
+	color: #EC6ACB;
+}
+
+.spotify:hover {
+	color: #1DD760;
+}
+
+.amazon:hover {
+	color: #01BCF4;
+}
+
+.google:hover {
+	color: #BCBCBC;
+}
+
+.youtube:hover {
+	color: #FF0000;
 }
 
 .byline {
@@ -57,7 +85,7 @@ a {
 .social {
 	height: 100px;
 	align: center;
-	fill: #C2B6AA;
+	fill: #ffeddd;
   margin-left: 20px;
   margin-right: 20px;
 }
